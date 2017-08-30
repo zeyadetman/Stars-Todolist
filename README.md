@@ -1,7 +1,7 @@
 Number | Check | Repository | Description |
 ----- | ----- | ----- | -----|
 | 1. | [ ] | [/rstacruz/nprogress](https://github.com/rstacruz/nprogress) | For slim progress bars like on YouTube, Medium, etc | 
-| 2. | <ul><li> [ ] <li></ul> | [/alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) | fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple | 
+| 2. | <ul style="list-style:none;"><li> [ ] <li></ul> | [/alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) | fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple | 
 | 3. | <ul><li> [ ] <li></ul> | [/rse/es6-features](https://github.com/rse/es6-features) | ECMAScript 6: Feature Overview &amp; Comparison | 
 | 4. | <ul><li> [ ] <li></ul> | [/facebook/react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 
 | 5. | <ul><li> [ ] <li></ul> | [/angular/angular](https://github.com/angular/angular) | One framework. Mobile &amp; desktop. | 
