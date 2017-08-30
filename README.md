@@ -1,6 +1,6 @@
 Number | Check | Repository | Description |
 ----- | ----- | ----- | -----|
-| 1. | [ ] | [/rstacruz/nprogress](https://github.com/rstacruz/nprogress) | For slim progress bars like on YouTube, Medium, etc | 
+| 1. | - [ ] | [/rstacruz/nprogress](https://github.com/rstacruz/nprogress) | For slim progress bars like on YouTube, Medium, etc | 
 | 2. | [ ] | [/alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) | fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple | 
 | 3. | [ ] | [/rse/es6-features](https://github.com/rse/es6-features) | ECMAScript 6: Feature Overview &amp; Comparison | 
 | 4. | [ ] | [/facebook/react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 
