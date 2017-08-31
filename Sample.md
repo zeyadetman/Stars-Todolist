@@ -2,7 +2,7 @@ Number | Check | Repository | Description |
 ----- | ----- | ----- | -----|
 | 0. | <ul style="list-style-type:none"><li> [ ] </li></ul> | [/rstacruz/nprogress](https://github.com/rstacruz/nprogress) | For slim progress bars like on YouTube, Medium, etc | 
 | 1. | <ul style="list-style-type:none"><li> [ ] </li></ul> | [/alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) | fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple | 
-| 2. | <ul style="list-style-type:none"><li> [ ] </li></ul> | [/rse/es6-features](https://github.com/rse/es6-features) | ECMAScript 6: Feature Overview &amp; Comparison | 
+| 2. | <ul style="list-style-type:none"><li> [x] </li></ul> | [/rse/es6-features](https://github.com/rse/es6-features) | ECMAScript 6: Feature Overview &amp; Comparison | 
 | 3. | <ul style="list-style-type:none"><li> [ ] </li></ul> | [/facebook/react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 
 | 4. | <ul style="list-style-type:none"><li> [ ] </li></ul> | [/angular/angular](https://github.com/angular/angular) | One framework. Mobile &amp; desktop. | 
 | 5. | <ul style="list-style-type:none"><li> [ ] </li></ul> | [/rsms/interface](https://github.com/rsms/interface) | The Interface font family | 
