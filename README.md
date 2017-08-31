@@ -12,4 +12,7 @@
 
 ``` pip install BeautifulSoup ```
 
-__ Note: The file save in .md format __
+### LIVE SAMPLE
+(https://github.com/zeyadetman/Stars-WatchedList/blob/master/Sample.md)[https://github.com/zeyadetman/Stars-WatchedList/blob/master/Sample.md]
+
+__Note: The file save in .md format__
