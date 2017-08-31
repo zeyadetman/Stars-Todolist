@@ -1,6 +1,6 @@
 ## Convert your stars list to Todo List
 
-###Install
+### Install
 
 1. install python 3 from (https://www.python.org/downloads/)[https://www.python.org/downloads/]
 
