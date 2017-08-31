@@ -2,7 +2,7 @@
 
 ### Install
 
-1. install python 3 from (https://www.python.org/downloads/)[https://www.python.org/downloads/]
+1. install python 3 from [Download](https://www.python.org/downloads/)
 
 1. install urllib.request
 
@@ -13,6 +13,11 @@
 ``` pip install BeautifulSoup ```
 
 ### LIVE SAMPLE
-(https://github.com/zeyadetman/Stars-WatchedList/blob/master/Sample.md)[https://github.com/zeyadetman/Stars-WatchedList/blob/master/Sample.md]
+[Live Sample](https://github.com/zeyadetman/Stars-WatchedList/blob/master/Sample.md)
 
 __Note: The file save in .md format__
+
+##Contributes
+  if you found bugs, don't tell me, just fork, fix and push request...
+
+[@zeyadetman](https://twitter.com/zeyadetman)
