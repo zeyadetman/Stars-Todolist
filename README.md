@@ -13,10 +13,8 @@
 
 __Note: The file save in .md format__
 
-## Contributes
-  if you found bugs, don't tell me, just fork, fix and push request...
-  ### more features left for your contributions.
-  1. update the list with github api.
-  1. convert md file to html.
+## To contribute:
+  1. [ ] update the list with github api.
+  1. [ ] convert md file to html.
 
 [@zeyadetman](https://twitter.com/zeyadetman)
